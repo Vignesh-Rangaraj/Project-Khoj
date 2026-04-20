@@ -73,8 +73,6 @@ Project-Khoj/
 git clone https://github.com/Vignesh-Rangaraj/Project-Khoj.git
 cd Project-Khoj
 ### 2. Install dependencies
-```bash
 pip install -r requirements.txt
 ### 3. Run the application
-```bash
 python main.py
